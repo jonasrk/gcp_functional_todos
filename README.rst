@@ -14,7 +14,9 @@
 
 ```pre-commit install```
 
+Deploy using
 
+```gcloud functions deploy --project gcp-functional-todos function-1 --source=/Users/Jonas_Kemper/Desktop/gcp_functional_todos/gcp_functional_todos/```
 
 ====================
 gcp_functional_todos

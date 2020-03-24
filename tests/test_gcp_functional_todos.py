@@ -7,7 +7,7 @@
 
 import unittest
 
-from gcp_functional_todos import gcp_functional_todos
+from gcp_functional_todos import main
 
 
 class TestGcp_functional_todos(unittest.TestCase):
